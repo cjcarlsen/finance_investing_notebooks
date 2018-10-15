@@ -1,2 +1,3 @@
-# finance_investing_notebooks
-Collection of Jupyter Notebooks for Analyzing Finance Data
+# Stock Investing Notebooks
+
+The following repository is a collection of Jupyter Notebooks I have compiled for analyzing finance data.
